@@ -1,0 +1,12 @@
+C:\Users\Aluno\Documents\GitHub\SAGC\SAGC\bin\Debug\SAGC.exe
+C:\Users\Aluno\Documents\GitHub\SAGC\SAGC\bin\Debug\SAGC.pdb
+C:\Users\Aluno\Documents\GitHub\SAGC\SAGC\bin\Debug\SAGC.xml
+C:\Users\Aluno\Documents\GitHub\SAGC\SAGC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\SAGC\SAGC\obj\x86\Debug\SAGC.Resources.resources
+C:\Users\Aluno\Documents\GitHub\SAGC\SAGC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Documents\GitHub\SAGC\SAGC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\Documents\GitHub\SAGC\SAGC\obj\x86\Debug\SAGC.exe
+C:\Users\Aluno\Documents\GitHub\SAGC\SAGC\obj\x86\Debug\SAGC.xml
+C:\Users\Aluno\Documents\GitHub\SAGC\SAGC\obj\x86\Debug\SAGC.pdb
+C:\Users\Aluno\Documents\GitHub\SAGC\SAGC\obj\x86\Debug\SAGC.FrmFuncionario.resources
+C:\Users\Aluno\Documents\GitHub\SAGC\SAGC\obj\x86\Debug\SAGC.FrmPrincipal.resources

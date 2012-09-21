@@ -10,3 +10,4 @@ C:\Users\Aluno\Documents\GitHub\SAGC\SAGC\obj\x86\Debug\SAGC.xml
 C:\Users\Aluno\Documents\GitHub\SAGC\SAGC\obj\x86\Debug\SAGC.pdb
 C:\Users\Aluno\Documents\GitHub\SAGC\SAGC\obj\x86\Debug\SAGC.FrmFuncionario.resources
 C:\Users\Aluno\Documents\GitHub\SAGC\SAGC\obj\x86\Debug\SAGC.FrmPrincipal.resources
+C:\Users\Aluno\Documents\GitHub\SAGC\SAGC\obj\x86\Debug\SAGC.FrmSplashScreen.resources

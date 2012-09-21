@@ -59,7 +59,7 @@ Partial Class FrmPrincipal
         'FuncionárioToolStripMenuItem
         '
         Me.FuncionárioToolStripMenuItem.Name = "FuncionárioToolStripMenuItem"
-        Me.FuncionárioToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.FuncionárioToolStripMenuItem.Size = New System.Drawing.Size(137, 22)
         Me.FuncionárioToolStripMenuItem.Text = "&Funcionário"
         '
         'ToolStrip1
